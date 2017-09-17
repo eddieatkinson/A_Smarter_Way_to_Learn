@@ -1,0 +1,103 @@
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 1.2em;
+}
+h1 {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 2em;
+}
+p.important {
+  font-size: 1.5em;
+  font-weight: 900;
+}
+h3.bigger {
+  font-size: 2.5em;
+}
+.typewriter {
+  font-family: "Courier New", Courier, monospace;
+}
+p.standout {
+  font-style: italic
+}
+h4.special {
+  font-style: italic;
+}
+.emphasized {
+  font-style: italic;
+}
+.italicizor {
+  font-style: italic;
+}
+.red {
+  color: #cc0000;
+}
+.spacing {
+  letter-spacing: .4em;
+  word-spacing: 2em;
+  line-height: 3em;
+}
+h3 {
+  text-align: center;
+}
+p.just {
+  text-align: justify;
+}
+p.indent {
+  text-indent: 1em;
+}
+blockquote {
+  font-size: .7em;
+  color: gray;
+}
+p.margin {
+  margin: 3em;
+}
+p.boxed {
+  border: 5px solid red;
+}
+.enclosed {
+  border: 6px groove #daffa9;
+  padding: 0 2em .1em 1em;
+}
+h4, p.center {
+  text-align: center;
+}
+h2#orange {
+  color: orange;
+}
+div#inset {
+  margin: 0 3em 0 3em;
+  font-family: Ariel, Helvetica, sans-serif;
+}
+div#inset p {
+  font-size: 2em;
+}
+img.block {
+  display: block;
+}
+img.move_right {
+  margin-left: 3em;
+}
+img.centered {
+  display: block;
+  margin: 0 auto 0 auto;
+}
+img.wrap_right {
+  float: right;
+  margin: 0 0 .75em .75em;
+}
+p.clear_wrap {
+  clear: both;
+}
+a {
+  color: gray;
+}
+a:hover {
+  color: orange;
+}
+li {
+  margin: 1em;
+}
+ul {
+  list-style-type: square;
+}
